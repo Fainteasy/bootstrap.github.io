@@ -2,14 +2,16 @@
     background-color: rgb(203, 160, 243);
     border: 1px solid black;
     margin:0;
-    display: flex;
-    align-items: center;
-    justify-content: center;
 }
 p{
     margin-bottom: 0;
+    display: flex;
+    justify-content: center;
 }
 .row {
     height: 60px;
     margin: 0;
+}
+.fill-height {
+    height: 100%;
 }
